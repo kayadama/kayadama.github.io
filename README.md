@@ -7,5 +7,5 @@ I am currently a graduate student in applied economics at Boston College. I expe
 
 My resume can be found [here](https://github.com/kayadama/resume/blob/main/bcrist_resume.pdf). 
 
-#### ST-project
+#### Data Visualization with R
 In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R to aggregate and plot census demographic data and state level data about liquor sales. This project was for a course in my first semester of grad school. 
