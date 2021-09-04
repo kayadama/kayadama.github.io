@@ -14,3 +14,5 @@ In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R 
 #### Writing Samples
 
 [This paper](https://github.com/kayadama/writing/raw/main/week6.news.analysis.pdf) is a short news analysis relating to money and banking. 
+
+[This piece](https://github.com/kayadama/writing/raw/main/macro.analysis.pdf) is a slightly longer macroeconomic analysis based off of a current news article.
