@@ -5,7 +5,7 @@ I am currently a graduate student in applied economics at Boston College. I expe
 
 #### Resume
 
-My resume can be found [here](https://github.com/kayadama/resume/blob/main/bcrist_resume.pdf). 
+My resume can be found [here](https://github.com/kayadama/resume/raw/main/bcrist_resume.pdf).
 
 #### Data Visualization with R
 
