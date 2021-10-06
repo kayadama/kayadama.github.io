@@ -3,10 +3,6 @@ This site is a portfolio of some of my technical work. It is a work in progress,
 
 I am currently a graduate student in applied economics at Boston College. I expect to graduate with a M.S. in December 2021. Broadly speaking, my interests are in using the abundance of tools for statistical inference in order to better understand the world through financial data. Practically, this takes many forms. I am a very curious person by nature and my interests are not set in stone. 
 
-#### Resume
-
-My resume can be found [here](https://github.com/kayadama/resume/raw/main/bcrist_resume.pdf).
-
 #### Big Data Econometrics
 
 [Select work](https://github.com/kayadama/big-data-econometrics) from a class on machine learning techniques.  
@@ -20,3 +16,8 @@ In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R 
 [This paper](https://github.com/kayadama/writing/raw/main/week6.news.analysis.pdf) is a short news analysis relating to money and banking. 
 
 [This piece](https://github.com/kayadama/writing/raw/main/macro.analysis.pdf) is a slightly longer macroeconomic analysis based off of a current news article.
+
+#### Resume
+
+You've probably arrived here from my resume, but if not, my resume can be found [here](https://github.com/kayadama/resume/raw/main/bcrist_resume.pdf).
+
