@@ -7,7 +7,7 @@ I am currently a graduate student in applied economics at Boston College. I expe
 
 My resume can be found [here](https://github.com/kayadama/resume/raw/main/bcrist_resume.pdf).
 
-### Big Data Econometrics
+#### Big Data Econometrics
 
 [Select work](https://github.com/kayadama/big-data-econometrics) from a class on machine learning techniques.  
 
