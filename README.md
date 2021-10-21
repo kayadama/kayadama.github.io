@@ -1,7 +1,7 @@
 
 This site is a portfolio of some of my technical work. It is a work in progress, and will be updated slowly over time. 
 
-I am currently a graduate student in applied economics at Boston College. I expect to graduate with a M.S. in December 2021. Broadly speaking, my interests are in using the abundance of tools for statistical inference in order to better understand the world through financial data. 
+I am currently a graduate student in Applied Economics at Boston College. I expect to graduate with a M.S. in December 2021. Broadly speaking, my interests are in using the abundance of tools for statistical inference in order to better understand the world through financial data. 
 
 #### Big Data Econometrics
 
