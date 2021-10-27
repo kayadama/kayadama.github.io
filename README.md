@@ -5,7 +5,7 @@ I am currently a graduate student in Applied Economics at Boston College. I expe
 
 #### Big Data Econometrics
 
-[Select work](https://github.com/kayadama/big-data-econometrics) from a class on machine learning techniques.  
+[Select work](https://github.com/kayadama/big-data-econometrics) from a class on machine learning techniques. 
 
 #### Financial Economics
 
