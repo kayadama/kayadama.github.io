@@ -13,7 +13,7 @@ I am currently a graduate student in Applied Economics at Boston College. I expe
 
 #### Data Visualization with R
 
-In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R to aggregate and plot census demographic data and state level data about liquor sales. This project was for a course in my first semester of grad school. It is worth noting that this project focused on manipulation of data sets and visualization techniques in R. The analysis, while still informative, is not quantitatively rigorous. 
+In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R to aggregate and plot census demographic data and state level data about liquor sales. This project focused on data manipulation and cleaning as well as visualization techniques in R. An adaptation of the Herfindahl index (Simpson index in ecology) was developed to created a novel variable in order to better identify if there exists any relationship between racial makeup and liquor prices. 
 
 #### Writing Samples
 
