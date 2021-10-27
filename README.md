@@ -21,7 +21,3 @@ In [this project](https://kayadama.github.io/st-project/ "ST-project"), I use R 
 
 [This piece](https://github.com/kayadama/writing/raw/main/macro.analysis.pdf) is a slightly longer macroeconomic analysis based off of a current news article.
 
-#### Resume
-
-You've probably arrived here from my resume, but if not, my resume can be found [here](https://github.com/kayadama/resume/raw/main/bcrist_resume.pdf).
-
